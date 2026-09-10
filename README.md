@@ -51,7 +51,6 @@ I'm a **19-year-old Full-Stack Developer** with over 3 years of commercial exper
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Floria.boutique](https://floria.boutique)** | Premium e-commerce flower marketplace with multi-step checkout, real-time cart persistence, and SSR. | `Next.js 14`, `TypeScript`, `Redux`, `Express`, `MongoDB`, `Docker` |
-| **[HundredGK.com](https://hundredgk.com)** | Scalable online retail platform and administrative dashboard suite for a network of online stores. | `Node.js`, `React`, `Socket.io`, `REST APIs`, `Docker` |
 
 ---
 
